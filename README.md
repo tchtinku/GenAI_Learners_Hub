@@ -59,7 +59,7 @@ Curated resources for Retrieval-Augmented Generation:
 ## 👋🏼 Join the Journey  
 Let's grow together:  
 
-🌐 **Connect**: [LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourhandle)  
+🌐 **Connect**: [LinkedIn](https://www.linkedin.com/in/tinkuchoudhary/)
 💡 **Suggest**: Open an Issue with your ideas  
 🤝 **Collaborate**: Join our [Discord/Slack](link) community  
 ⭐ **Support**: Star this repo to help more learners find us  
