@@ -61,7 +61,6 @@ Let's grow together:
 
 🌐 **Connect**: [LinkedIn](https://www.linkedin.com/in/tinkuchoudhary/)
 💡 **Suggest**: Open an Issue with your ideas  
-🤝 **Collaborate**: Join our [Discord/Slack](link) community  
 ⭐ **Support**: Star this repo to help more learners find us  
 
 *"Alone we go fast, together we go far!"*
