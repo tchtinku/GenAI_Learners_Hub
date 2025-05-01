@@ -1,0 +1,7 @@
+streamlit==1.28.0
+PyPDF2==3.0.1
+python-dotenv==1.0.0
+--index-url https://download.pytorch.org/whl/nightly/cpu
+torch>=2.3.0
+sentence-transformers==2.7.0
+faiss-cpu==1.8.0; sys_platform != 'darwin'

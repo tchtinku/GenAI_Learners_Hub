@@ -1,0 +1,29 @@
+Data Engineer, YouTube Business Technology 
+
+Minimum qualifications:
+
+Bachelor’s degree or equivalent practical experience.
+3 years of experience coding in one or more programming languages.
+3 years of experience working with data infrastructure and data models by performing exploratory queries and scripts.
+Experience in data analysis, database querying (e.g., SQL), and data visualization (dashboards/reports).
+Experience in defining and implementing data governance policies, procedures, and standards, as well as data privacy regulations and compliance requirements.
+
+Preferred qualifications:
+
+Experience working in a business tooling or operations organization.
+Experience with data analysis at scale, including statistics, and machine learning model development (data preparation, model selection, evaluation, tuning).
+Experience with a wide range of data engineering and data governance tools and technologies, including cloud platforms (e.g., GCP, Looker), data warehousing solutions, data quality tools, and metadata management systems.
+Experience in building prototypes or proof-of-concepts using generative AI models (e.g., LLMs, diffusion models) or agentic workflow frameworks.
+
+About the jobIn this role, you will be responsible for developing and maintaining solutions that streamline data access, enhance data hygiene, and improve telemetry for YouTube's internal business teams. Your work will impact the efficiency and effectiveness of our support organization, enabling them to better serve our users. You will be part of an engineering team focused on building tools, creating proof-of-concept prototypes, and generating/reviewing technical design documents to address the data needs of our support teamsYouTube/Video Global Solutions is the link between Google video products and sales. Our mission is to fuel innovation that keeps YouTube and Video free and accessible to the world. We do this by translating global market needs into meaningful product solutions that drive business results for content partners and customers.
+
+Responsibilities
+
+Lead the design, development, and maintenance of reliable data pipeline.
+Write queries and other data manipulation languages like Python and R. Conduct advanced quantitative data analysis.
+Partner with technical and non-technical stakeholders to translate data needs into technical designs. Lead technical design review and collaborate with cross-functional teams.
+Develop dashboards and reports in partnership with User Experience (UX) team and establish data visualization standards.
+Drive ownership of the Data Governance charter, defining and implementing policies and ensuring compliance.
+
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .
