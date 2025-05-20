@@ -1,7 +1,7 @@
 import json
 
 # Load the notebook
-with open("/Users/macbookpro/Desktop/PowerProjects/GenAILearnersHub/beginner-projects/linkedInPostGenerator.ipynb", "r") as f:
+with open("/Users/macbookpro/Desktop/PowerProjects/GenAILearnersHub/beginner-projects/ChatPDF/ChatPDF.ipynb", "r") as f:
     nb = json.load(f)
 
 # Remove problematic widgets metadata

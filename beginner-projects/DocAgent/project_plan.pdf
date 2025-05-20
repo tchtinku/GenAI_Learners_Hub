@@ -1,0 +1,20 @@
+Q3 Mobile App Development Plan  
+Owner: Tech Team | Timeline: May 20 - Aug 1  
+
+**Milestones**:  
+1. Phase 1: Backend Setup (May 20 - Jun 15)  
+   - Task: Implement user auth API (Bob)  
+   - Dependency: AWS approval by May 25  
+
+2. Phase 2: UI/UX (Jun 16 - Jul 10)  
+   - Task: Finalize dashboard design (Carol)  
+   - Priority: High  
+   - Notes: Align with branding guidelines  
+
+3. Phase 3: Testing (Jul 11 - Jul 31)  
+   - Task: Load testing > 10k users (QA Team)  
+   - Deadline: Jul 25  
+
+**Risks**:  
+- API delays may impact testing phase  
+- Budget approval pending for Phase 3  
