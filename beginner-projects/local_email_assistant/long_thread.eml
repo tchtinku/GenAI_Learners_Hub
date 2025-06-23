@@ -1,0 +1,78 @@
+From: alice.manager@example.com
+To: bob.engineer@example.com
+Subject: Project Update and Next Steps
+
+Hi Bob,
+
+Hope you’re doing well.
+
+I wanted to follow up on the status of the Data Pipeline Revamp project. Could you please share:
+- Current progress
+- Any blockers you’re facing
+- An updated ETA for Phase 1 delivery
+
+Let’s ensure we’re on track for the client review next Friday.
+
+Thanks,
+Alice
+
+
+--- Reply from Bob ---
+
+From: bob.engineer@example.com
+To: alice.manager@example.com
+Subject: Re: Project Update and Next Steps
+
+Hi Alice,
+
+Thanks for checking in.
+
+Progress:
+✅ Data ingestion module refactored
+✅ Unit tests at 85% coverage
+🕒 ETL orchestration redesign in progress
+
+Blockers:
+- Waiting for DevOps team to provision the new staging environment.
+- Need clarifications on data retention policy from Compliance.
+
+ETA for Phase 1:
+I estimate we’ll need 3 more working days after the staging env is ready.
+
+Please let me know if you’d like to discuss this in tomorrow’s standup.
+
+Best,
+Bob
+
+
+--- Forwarded to DevOps ---
+
+From: alice.manager@example.com
+To: devops.team@example.com
+Subject: Fwd: Project Update and Next Steps
+
+Hi Team,
+
+Forwarding Bob’s update — could you please prioritize the staging environment setup this week? It’s a critical path item for the Data Pipeline Revamp.
+
+Let me know if there are any issues.
+
+Thanks,
+Alice
+
+
+--- Reply from DevOps ---
+
+From: devops.team@example.com
+To: alice.manager@example.com
+Subject: Re: Fwd: Project Update and Next Steps
+
+Hi Alice,
+
+We’ve scheduled the staging environment setup for tomorrow morning. Bob should have access by EOD.
+
+Please keep us posted if any additional configuration is needed.
+
+Cheers,
+DevOps Team
+
