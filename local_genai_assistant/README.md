@@ -2,7 +2,7 @@
 
 This project is the groundwork for a local-first GenAI assistant. The goal is to incrementally build a smart assistant that can reason over personal documents, handle tasks, and respond via voice—all running locally, with no paid API dependencies.
 
-## Day 8 Progress
+## Day 1-8 Progress
 - Wiring together agents, local LLMs, and document understanding
 - Running `llama-cpp-python` for lightweight, local inference (tested on Colab)
 - Planning to unify CrewAI, LangGraph, and LlamaIndex
